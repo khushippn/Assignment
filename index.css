@@ -1,0 +1,16 @@
+.new_tag {
+    transform: rotate(-38deg);
+    width: 134px;
+    left: -33px;
+    top: 12px;
+}
+
+.carousel-item{
+    height: 90% !important;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 15px !important;
+    height: 15px !important;
+    border-radius: 50% !important;
+}
